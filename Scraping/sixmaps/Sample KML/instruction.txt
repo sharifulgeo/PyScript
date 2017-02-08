@@ -1,0 +1,37 @@
+Previously I extracted from a map server and it was a big project. That server has 23 layers as enumrated below
+
+====================================================================
+I have made an archive of the sample of extracted data as KML for you
+=====================================================================
+
+Layer:  0   Suburb                   
+Layer:  1   LocalGovernmentArea      
+Layer:  2   Plan                     
+Layer:  3   StateElectoralDistrict   
+Layer:  4   County                   
+Layer:  5   Parish                   
+Layer:  6   Lot                      
+Layer:  7   Catchment                
+Layer:  8   Address                  
+Layer:  9   Land District            
+Layer:  10  Lands Office             
+Layer:  11  CCD_centroids            
+Layer:  12  Urban_Property           
+Layer:  13  SS_Rural_Property        
+Layer:  14  Rural_Property           
+Layer:  15  Lot                      
+Layer:  16  State Forest             
+Layer:  17  NPWS Reserve             
+Layer:  18  Topo Map Index           
+Layer:  19  Map Index 100K           
+Layer:  20  Map Index 250K           
+Layer:  21  Satellite Scene Index    
+Layer:  22  Property_M 
+
+===========================================
+
+Archive read info
+
+Name "100__0.zip" means it is layer 0 i.e.  Layer:  0   Suburb  
+Name "100__1.zip" means it is layer 0 i.e. Layer:  1   LocalGovernmentArea  
+

@@ -1,0 +1,7 @@
+http://www.ga.gov.au/gis/rest/services
+
+
+Identify Feature
+
+http://nationalmap.gov.au/proxy/http://www.ga.gov.au/gis/rest/services/earth_observation/Landcover_WM/MapServer/identify?f=json&tolerance=2&geometryType=esriGeometryPoint&geometry=16767629.618911223,-4038579.01671231&mapExtent=16750104.630300384,-4070118.8821290657,16828376.147264402,-3991847.3651650436&imageDisplay=256,256,96&sr=3857&layers=visible:0
+
